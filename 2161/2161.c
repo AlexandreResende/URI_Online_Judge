@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// THIS IS AN EXERCISE ABOUT CONTINUED FRACTION
 int main(void) {
   int input, counter;
 
